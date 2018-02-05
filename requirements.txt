@@ -7,4 +7,6 @@ matplotlib
 jupyter
 seaborn
 imbalanced-learn
+pandas_ml
 hyperopt
+forestci

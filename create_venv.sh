@@ -22,3 +22,5 @@ fi
 VENV=".env_${MODE}"
 ${PYTHON_SOURCE}/python -m venv ${VENV}
 $VENV/bin/pip install -r requirements.txt
+#git clone git@github.com:hyperopt/hyperopt-sklearn.git
+#cd hyperopt-sklearn && ../$VENV/bin/pip install -e .
